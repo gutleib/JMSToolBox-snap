@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://avatars1.githubusercontent.com/u/29598503?v=3&s=256" alt="[Project]">
+  <img src="https://avatars.githubusercontent.com/u/36493107?s=200&v=4" alt="[Project]">
   <br />
-  [Project]
+  JMSToolBox
 </h1>
 
-<p align="center"><b>This is the snap for [Project]</b>, <i>“Single-line elevator pitch for your amazing snap”</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
-distributions.</p>
+<p align="center"><b>This is the snap for JMSToolBox</b>, <i>
+JMSToolBox is an "Universal" JMS Client able to interact with the greatest number of Queue Managers/Queue providers on the market in a consistent manner.</p>
 
 <!-- Uncomment and modify this when you are provided a build status badge
 <p align="center">
@@ -26,7 +26,7 @@ distributions.</p>
 
 ## Install
 
-    sudo snap install my-snap-name
+    sudo snap install jmstoolbox-snap
 
 <!-- Uncomment and modify this when your snap is available on the store
 [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-white.svg)](https://snapcraft.io/my-snap-name)
@@ -39,14 +39,14 @@ distributions.</p>
 ![my-snap-name](screenshot.png?raw=true "my-snap-name")
 -->
 
-Snapcrafters ([join us](https://forum.snapcraft.io/t/join-snapcrafters/1325)) 
+Snapcrafters ([join us](https://forum.snapcraft.io/t/join-snapcrafters/1325))
 are working to land snap install documentation and
 the [snapcraft.yaml](https://github.com/snapcrafters/fork-and-rename-me/blob/master/snap/snapcraft.yaml)
 upstream so [Project] can authoritatively publish future releases.
 
   - [x] Click the green "Use this template" button above to create a new repository based on this template
-  - [ ] Give the newly created repository a sensible name, like `godzilla-snap` if you're snapping the Godzilla software
-  - [ ] Update the description of the repository
+  - [x] Give the newly created repository a sensible name, like `godzilla-snap` if you're snapping the Godzilla software
+  - [x] Update the description of the repository
   - [ ] Update logos and references to `[Project]` and `[my-snap-name]`
   - [ ] Create a snap that runs in `devmode`
   - [ ] Register the snap in the store, **using the preferred upstream name**
@@ -80,7 +80,7 @@ If you have any questions, [post in the Snapcraft forum](https://forum.snapcraft
 | [![Your Name](https://gravatar.com/avatar/bc0bced65e963eb5c3a16cab8b004431/?s=128)](https://github.com/yourname/) |
 | :---: |
 | [Your Name](https://github.com/yourname/) |
---> 
+-->
 
 <!-- Uncomment and modify this when you have upstream contacts
 ## Upstream
